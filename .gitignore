@@ -1,3 +1,4 @@
 myEnv
 launch.json
 .\data\FashionMNIST
+.\data\FashionMNIST/FashionMNIST
